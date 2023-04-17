@@ -1,0 +1,15 @@
+.profimg{
+    grid-area: a;
+    background-color: white;
+    margin:10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.profimg img{
+    height: 200px;
+    border-radius: 50%;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+}

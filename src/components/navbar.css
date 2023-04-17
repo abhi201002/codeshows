@@ -1,0 +1,19 @@
+.nav{
+    /* border: 1px solid black; */
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between; */
+    background-color: rgb(228,22,22,0.85) !important;
+}
+.font{
+    font-weight: 500 !important;
+    color: red !important;
+}
+.nav_img img{
+    height: 40px;
+    object-fit: contain;
+}
+.place{
+    display: flex !important;
+    justify-content: space-between !important;
+}

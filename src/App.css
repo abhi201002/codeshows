@@ -1,0 +1,9 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.home{
+  background-image: url("https://img.freepik.com/free-photo/3d-render-modern-techno-with-flowing-particles-design_1048-13727.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}

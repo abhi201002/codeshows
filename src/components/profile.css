@@ -1,0 +1,9 @@
+.profile{
+    background-color: rgb(243,242,239);
+    display: grid;
+    grid-template-areas: 
+    'a b'
+    'a c ';
+    height: 89.6vh;
+    grid-template-columns: 30% 70%;
+}
